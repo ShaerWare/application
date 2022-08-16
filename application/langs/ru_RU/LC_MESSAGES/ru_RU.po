@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-16 06:16+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: views/layouts/admin.php:15 views/layouts/admin.php:63
+msgid "action"
+msgstr ""
+
+#: views/layouts/admin.php:15 views/layouts/admin.php:63
+msgid "login"
+msgstr ""
+
+#: views/layouts/default.php:2
+msgid "BASE_PATH"
+msgstr ""
+
+#: views/layouts/default.php:3
+msgid "LANGUAGES_PATH"
+msgstr ""
+
+#: views/layouts/default.php:3
+msgid "../../langs"
+msgstr ""
+
+#: views/layouts/default.php:6 views/layouts/default.php:7
+#: views/layouts/default.php:12 views/layouts/default.php:109
+msgid "locale"
+msgstr ""
+
+#: views/layouts/default.php:10
+msgid "ru_RU"
+msgstr ""
+
+#: views/layouts/default.php:17
+msgid "LC_ALL="
+msgstr ""
+
+#: views/layouts/default.php:18
+msgid ".utf8"
+msgstr ""
+
+#: views/layouts/default.php:19
+msgid "UTF-8"
+msgstr ""
+
+#: views/layouts/default.php:46
+msgid "Preimuchestva"
+msgstr "Преимущества"
+
+#: views/layouts/default.php:49
+msgid "Otzivs"
+msgstr "Отзывы"
+
+#: views/layouts/default.php:52
+msgid "Product"
+msgstr "Продукты"
+
+#: views/layouts/default.php:58 views/layouts/default.php:59
+msgid "account"
+msgstr ""
+
+#: views/layouts/default.php:58
+msgid "id"
+msgstr ""
+
+#: views/layouts/default.php:59
+msgid "agent"
+msgstr ""
